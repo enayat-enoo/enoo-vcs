@@ -1,0 +1,24 @@
+{
+  "name": "enoo-vcs",
+  "version": "1.0.0",
+  "description": "A Git-inspired version control system built from scratch in Node.js.",
+  "main": "src/index.js",
+  "bin": {
+    "enoo": "./bin/enoo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enayat-enoo/enoo-vcs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/enayat-enoo/enoo-vcs/issues"
+  },
+  "homepage": "https://github.com/enayat-enoo/enoo-vcs#readme"
+}
